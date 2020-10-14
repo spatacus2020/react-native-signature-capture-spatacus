@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_action_mode_bar.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/notification_template_icon_group.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/cb5b78dca4f632d2d825ab5a1ff8867b/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_select_dialog_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/notification_action_tombstone.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/cb5b78dca4f632d2d825ab5a1ff8867b/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_search_view.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_screen_content_include.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/redbox_item_title.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/redbox_item_frame.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/fps_view.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/dev_loading_view.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/select_dialog_item_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/notification_action.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/cb5b78dca4f632d2d825ab5a1ff8867b/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_dialog_title_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_screen_toolbar.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/redbox_view.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/notification_template_part_time.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/cb5b78dca4f632d2d825ab5a1ff8867b/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_action_menu_layout.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_tooltip.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_screen_simple.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/cb5b78dca4f632d2d825ab5a1ff8867b/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/layout/abc_action_bar_up_container.xml"
+    }
+]

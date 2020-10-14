@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_popup_exit.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/catalyst_slide_up.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/catalyst_push_up_in.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_slide_out_top.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_fade_out.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_fade_in.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_slide_in_top.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_tooltip_exit.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/catalyst_slide_down.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_tooltip_enter.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_popup_enter.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/catalyst_fade_out.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/catalyst_fade_in.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/anim/catalyst_push_up_out.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/ba5d4ff5654846ab1d93a557c0e15e12/res/anim/catalyst_push_up_out.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/drawable-v21/notification_action_background.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/cb5b78dca4f632d2d825ab5a1ff8867b/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/lijunfeng/work/misnew/misnew-supplier/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/releaseStaging/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/lijunfeng/.gradle/caches/transforms-2/files-2.1/69b1889c86d19d429e596419107c71a8/res/drawable-v21/abc_dialog_material_background.xml"
+    }
+]
