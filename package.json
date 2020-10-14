@@ -19,7 +19,7 @@
   "peerDependencies": {
     "react-native": ">=0.47"
   },
-  "author": "RepairShopr",
+  "author": "spatacus2020",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/spatacus2020/react-native-signature-capture-spatacus/issues"
